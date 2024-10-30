@@ -1,0 +1,14 @@
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\bin\Debug\net8.0\1-10.exe
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\bin\Debug\net8.0\1-10.deps.json
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\bin\Debug\net8.0\1-10.runtimeconfig.json
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\bin\Debug\net8.0\1-10.dll
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\bin\Debug\net8.0\1-10.pdb
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\1-10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\1-10.AssemblyInfoInputs.cache
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\1-10.AssemblyInfo.cs
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\1-10.csproj.CoreCompileInputs.cache
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\1-10.dll
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\refint\1-10.dll
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\1-10.pdb
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\1-10.genruntimeconfig.cache
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\ref\1-10.dll
