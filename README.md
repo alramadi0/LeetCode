@@ -10,11 +10,11 @@ Hello! I'm a **beginner backend developer** with a passion for coding and proble
 
 Here’s a collection of the problems I've tackled so far:
 
-<!-- | Difficulty                              | Problem Title | Link                                           |
+| Difficulty                              | Problem Title | Link                                           |
 | --------------------------------------- | ------------- | ---------------------------------------------- |
-| <span style="color: green;">Easy</span> | Two Sum       | [Link](https://leetcode.com/problems/two-sum/) | -->
-<!-- | <span style="color: orange;">Medium</span>     | Add Two Numbers | [Link](https://leetcode.com/problems/add-two-numbers/) | -->
-<!-- | <span style="color: red;">Hard</span>          | Median of Two Sorted Arrays | [Link](https://leetcode.com/problems/median-of-two-sorted-arrays/) -->
+| <span style="color: green;">Easy</span> | Two Sum       | [Link](https://leetcode.com/problems/two-sum/solutions/5986774/c-solution-for-the-two-sum-problem/) |
+<!-- | <span style="color: orange;">Medium</span>     | Add Two Numbers | [Link]() | -->
+<!-- | <span style="color: red;">Hard</span>          | Median of Two Sorted Arrays | [Link]() -->
 
 ---
 
