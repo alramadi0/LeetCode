@@ -12,3 +12,4 @@ C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\refint\1-10.dll
 C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\1-10.pdb
 C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\1-10.genruntimeconfig.cache
 C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\ref\1-10.dll
+C:\Users\nrama\Desktop\Program\LeetCode\1-10\obj\Debug\net8.0\1-10.sourcelink.json
