@@ -19,6 +19,17 @@ class Program
 
           //? Problem #2
           #region
+          bool ContainsDuplicate(int[] nums)
+          {
+               HashSet<int> map = new();
+
+               for (int i = 0; i < nums.Length; i++)
+                    if (map.Contains(nums[i])) return true;
+                    else map.Add(nums[i]);
+
+               return false;
+
+          };
           #endregion
 
           //? Problem #?
