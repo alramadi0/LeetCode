@@ -32,6 +32,15 @@ class Program
           };
           #endregion
 
+          //? Problem #3
+          #region
+          int MissingNumber(int[] nums)
+          {
+               int expectedSum = nums.Length * (nums.Length + 1) / 2;
+               return expectedSum - nums.Sum();
+          }
+          #endregion
+
           //? Problem #?
           #region
           #endregion

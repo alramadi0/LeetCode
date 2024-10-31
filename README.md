@@ -14,8 +14,7 @@ Here’s a collection of the problems I've tackled so far:
 | --------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | <span style="color: green;">Easy</span> | Two Sum           | [Link](https://leetcode.com/problems/two-sum/solutions/5986774/c-solution-for-the-two-sum-problem/)                                 |
 | <span style="color: green;">Easy</span> | ContainsDuplicate | [Link](https://leetcode.com/problems/contains-duplicate/solutions/5989109/detecting-duplicates-in-an-array-using-hashset-in-c/)     |
-
-<!-- | <span style="color: green;">Easy</span> | MissingNumber     | [Link](https://leetcode.com/problems/missing-number/solutions/5989163/finding-the-missing-number-in-an-array-using-the-sum-formula) | -->
+| <span style="color: green;">Easy</span> | MissingNumber     | [Link](https://leetcode.com/problems/missing-number/solutions/5989163/finding-the-missing-number-in-an-array-using-the-sum-formula) |
 
 <!-- | <span style="color: green;">Easy</span> | ContainsDuplicate | [Link]() | -->
 
