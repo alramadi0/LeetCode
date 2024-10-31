@@ -10,12 +10,17 @@ Hello! I'm a **beginner backend developer** with a passion for coding and proble
 
 Here’s a collection of the problems I've tackled so far:
 
-| Difficulty                              | Problem Title     | Link                                                                                                                            |
-| --------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| <span style="color: green;">Easy</span> | Two Sum           | [Link](https://leetcode.com/problems/two-sum/solutions/5986774/c-solution-for-the-two-sum-problem/)                             |
-| <span style="color: green;">Easy</span> | ContainsDuplicate | [Link](https://leetcode.com/problems/contains-duplicate/solutions/5989109/detecting-duplicates-in-an-array-using-hashset-in-c/) |
+| Difficulty                              | Problem Title     | Link                                                                                                                                |
+| --------------------------------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| <span style="color: green;">Easy</span> | Two Sum           | [Link](https://leetcode.com/problems/two-sum/solutions/5986774/c-solution-for-the-two-sum-problem/)                                 |
+| <span style="color: green;">Easy</span> | ContainsDuplicate | [Link](https://leetcode.com/problems/contains-duplicate/solutions/5989109/detecting-duplicates-in-an-array-using-hashset-in-c/)     |
+
+<!-- | <span style="color: green;">Easy</span> | MissingNumber     | [Link](https://leetcode.com/problems/missing-number/solutions/5989163/finding-the-missing-number-in-an-array-using-the-sum-formula) | -->
+
+<!-- | <span style="color: green;">Easy</span> | ContainsDuplicate | [Link]() | -->
 
 <!-- | <span style="color: orange;">Medium</span>     | Add Two Numbers | [Link]() | -->
+
 <!-- | <span style="color: red;">Hard</span>          | Median of Two Sorted Arrays | [Link]() -->
 
 ---
@@ -24,7 +29,7 @@ Here’s a collection of the problems I've tackled so far:
 
 -   **🛠 Problem Solving**: A curated collection of my solutions categorized by difficulty.
 -   **📚 Learning Journey**: Documenting my progress and the strategies I employ.
--   **💻 Languages Used**: Primarily **C#**, with solutions in **JavaScript** and **C++**.
+-   **💻 Languages Used**: Primarily **C#**.
 -   **🔗 Resources**: Curated links to helpful resources for algorithms and data structures.
 
 ---
