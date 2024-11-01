@@ -38,7 +38,21 @@ class Program
           {
                int expectedSum = nums.Length * (nums.Length + 1) / 2;
                return expectedSum - nums.Sum();
-          }
+          };
+          #endregion
+
+          //? Problem #4
+          #region
+          IList<int> FindDisappearedNumbers(int[] nums)
+          {
+               HashSet<int> setNums = new(nums);
+               List<int> missingNums = new();
+
+               for (int i = 1; i <= nums.Length; i++)
+                    if (!setNums.Contains(i)) missingNums.Add(i);
+
+               return missingNums;
+          };
           #endregion
 
           //? Problem #?
