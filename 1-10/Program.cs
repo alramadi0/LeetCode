@@ -55,6 +55,21 @@ class Program
           };
           #endregion
 
+          //? Problem #5
+          #region
+          int[] SmallerNumbersThanCurrent(int[] nums)
+          {
+               int[] orderedNums = (nums.OrderBy(num => num)).ToArray();
+               Dictionary<int, int> smallerNumbersCounter = new();
+
+               for (int i = 0; i < nums.Length; i++)
+                    if (!smallerNumbersCounter.ContainsKey(orderedNums[i]))
+                         smallerNumbersCounter.Add(orderedNums[i], i);
+
+               return nums.Select(num => smallerNumbersCounter[num]).ToArray();
+          };
+          #endregion
+
           //? Problem #?
           #region
           #endregion
